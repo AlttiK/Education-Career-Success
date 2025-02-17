@@ -1,2 +1,1 @@
-# Education-Career-Success
-Jupyter Notebook
+# Education and Career Success Analysis
